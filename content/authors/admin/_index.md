@@ -59,7 +59,7 @@ education:
     institution: University of Michigan, Ann Arbor
     icon: ""
     date_start: 2024-09-01
-    date_end: 2029-01-01
+    date_end: 2029-04-01
 #    summary: |
  #     My thesis developed a lightweight, edge-deployable deep learning pipeline for real-time weed detection using UAV imagery, demonstrating that accurate precision-agriculture #monitoring is possible with low-cost sensors and constrained computational resources.
  #   button:
