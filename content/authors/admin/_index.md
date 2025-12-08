@@ -60,11 +60,11 @@ education:
     icon: ""
     date_start: 2024-09-01
     date_end: 2029-01-01
-    summary: |
-      My thesis developed a lightweight, edge-deployable deep learning pipeline for real-time weed detection using UAV imagery, demonstrating that accurate precision-agriculture monitoring is possible with low-cost sensors and constrained computational resources.
-    button:
-      text: 'Read Thesis'
-      url: 'https://drive.google.com/file/d/1wQQcXnvww47iegaJ-oXMG4Yc6Hrfzcd7/view?usp=sharing'
+#    summary: |
+ #     My thesis developed a lightweight, edge-deployable deep learning pipeline for real-time weed detection using UAV imagery, demonstrating that accurate precision-agriculture #monitoring is possible with low-cost sensors and constrained computational resources.
+ #   button:
+  #    text: 'Read Thesis'
+   #   url: 'https://drive.google.com/file/d/1wQQcXnvww47iegaJ-oXMG4Yc6Hrfzcd7/view?usp=sharing'
 #  - area: MS Computer Science
  #   institution: Carnegie Mellon University
   #  icon: ""
@@ -80,9 +80,11 @@ education:
     date_start: 2019-09-01
     date_end: 2023-06-30
     summary: |
-      GPA: 3.85/4.0
-
-      Minored in Data Science
+      GPA: 3.85/4.0. Minored in Data Science
+      My thesis developed a lightweight, edge-deployable deep learning pipeline for real-time weed detection using UAV imagery, demonstrating that accurate precision-agriculture monitoring is possible with low-cost sensors and constrained computational resources.
+    button:
+      text: 'Read Thesis'
+      url: 'https://drive.google.com/file/d/1wQQcXnvww47iegaJ-oXMG4Yc6Hrfzcd7/view?usp=sharing'
 
 work:
   - position: Graduate Student Research Assistant
