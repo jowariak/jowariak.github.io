@@ -80,7 +80,8 @@ education:
     date_start: 2019-09-01
     date_end: 2023-06-30
     summary: |
-      GPA: 3.85/4.0. Minored in Data Science
+      GPA: 3.85/4.0
+      Minored in Data Science
       My thesis developed a lightweight, edge-deployable deep learning pipeline for real-time weed detection using UAV imagery, demonstrating that accurate precision-agriculture monitoring is possible with low-cost sensors and constrained computational resources.
     button:
       text: 'Read Thesis'
