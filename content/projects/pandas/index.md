@@ -1,15 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Final project for the University of Michigan class EECS 588, Computer Network and Security.
+date: 2024-04-15
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://github.com/julieshah24/588-project
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+ - spam detection
+ - continual learning
+ - concept drift
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
 
-<!--more-->
