@@ -38,8 +38,8 @@ profiles:
     label: E-mail Me
 #  - icon: brands/x
  #   url: https://x.com/AlexAIResearch
-  #- icon: brands/github
-  #  url: https://github.com/jowariak
+  - icon: brands/github
+    url: [https://github.com/jowariak](https://jowariak.github.io/)
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jowaria-khan/
   - icon: academicons/google-scholar
