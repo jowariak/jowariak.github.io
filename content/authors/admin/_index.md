@@ -39,7 +39,7 @@ profiles:
 #  - icon: brands/x
  #   url: https://x.com/AlexAIResearch
   - icon: brands/github
-    url: jowariak.github.io
+    url: https://github.com/jowariak
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jowaria-khan/
   - icon: academicons/google-scholar
