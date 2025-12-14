@@ -183,6 +183,15 @@ awards:
       incoming international graduate students with exceptional academic qualifications
       and research potential.
 
+  - title: Outstanding College of Engineering (CEN) Student Community Service Award
+    url: https://www.aus.edu/media/news/aus-college-of-engineering-recognizes-exceptional-students-and-alumni
+    date: '2023-01-01'
+    awarder: American University of Sharjah
+    icon: hero/heart
+    summary: |
+      Recognized for exceptional contribution to community service within the College of
+      Engineering.
+
   - title: UAE Golden Visa — Distinguished Student Category
     date: '2023-01-01'
     awarder: Government of the United Arab Emirates
@@ -251,15 +260,6 @@ awards:
     summary: |
       Earned Chancellor’s List honors for outstanding academic performance across multiple
       semesters (Fall 2020 – Spring 2023).
-
-  - title: Outstanding College of Engineering (CEN) Student Community Service Award
-    url: https://www.aus.edu/media/news/aus-college-of-engineering-recognizes-exceptional-students-and-alumni
-    date: '2023-01-01'
-    awarder: American University of Sharjah
-    icon: hero/heart
-    summary: |
-      Recognized for exceptional contribution to community service within the College of
-      Engineering.
 
   - title: CSE Undergraduate Academic Excellence Award
     url: https://www.aus.edu/media/news/outstanding-computer-science-and-engineering-students-recognized-at-cse-annual-awards
