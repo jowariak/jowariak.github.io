@@ -91,7 +91,7 @@ links:
  # url: https://youtube.com
 - type: custom
   label: Preprint
-  url: https://openreview.net/forum?id=oZGsCCcq3H
+  # url: https://openreview.net/forum?id=oZGsCCcq3H
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -115,4 +115,5 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: ""
 ---
+
 
