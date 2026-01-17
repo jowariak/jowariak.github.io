@@ -90,7 +90,7 @@ links:
 #- type: video
  # url: https://youtube.com
 - type: custom
-  label: Preprint
+  label: Preprint (to be added soon)
   # url: https://openreview.net/forum?id=oZGsCCcq3H
 
 # Featured image
@@ -115,5 +115,6 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: ""
 ---
+
 
 
