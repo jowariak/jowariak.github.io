@@ -44,7 +44,7 @@ featured: true
  # ids:
   #  arxiv: https://arxiv.org/abs/2602.17605
 
-#links:
+links:
 #- type: preprint
  # provider: arxiv
   # id: https://arxiv.org/abs/2602.17605
@@ -86,6 +86,7 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: ""
 ---
+
 
 
 
