@@ -44,10 +44,10 @@ featured: true
  # ids:
   #  arxiv: https://arxiv.org/abs/2602.17605
 
-links:
-- type: preprint
-  provider: arxiv
-  id: https://arxiv.org/abs/2602.17605
+#links:
+#- type: preprint
+ # provider: arxiv
+  # id: https://arxiv.org/abs/2602.17605
 #- type: code
 #  url: https://github.com/HugoBlox/hugo-blox-builder
 #- type: slides
@@ -60,9 +60,9 @@ links:
  # url: "#"
 #- type: video
  # url: https://youtube.com
-#- type: custom
- # label: Preprint (to be added soon)
-  # url: https://openreview.net/forum?id=oZGsCCcq3H
+- type: custom
+  label: Preprint
+  url: https://arxiv.org/abs/2602.17605
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -86,6 +86,7 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: ""
 ---
+
 
 
 
