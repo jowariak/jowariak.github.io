@@ -21,36 +21,7 @@ publication_types: ["article"]
 #publication_short: ""
 
 abstract: |
-  In many real-world settings, such as environmental monitoring, disaster response,
-  or public health, where data is costly and difficult to collect, strategically
-  sampling from unobserved regions is essential for uncovering hidden risks or
-  targets under tight resource constraints. Moreover, real-world geospatial data
-  is often sparse, noisy, and geographically skewed, rendering most existing
-  learning-based methods impractical.
-
-  To address this, we propose a unified geospatial discovery framework that
-  integrates active learning, online meta-learning, and concept-guided reasoning
-  to support efficient, real-time decision-making under extreme data scarcity.
-  Our approach introduces two key innovations:
-
-  (1) a relevance–uncertainty guided sampling strategy that uses structured
-  relevance vectors based on domain-specific concepts (e.g., spectral channels,
-  industrial proximity), enabling interpretable and adaptive sample selection; and
-
-  (2) a relevance-aware meta-batch formation strategy that promotes semantic
-  diversity during online meta-updates, improving generalization in dynamic
-  environments.
-
-  Our experiments include actively searching for a specific land cover type under
-  sparse training conditions and a strict sampling budget, as well as identifying
-  cancer-causing PFAS (per- and polyfluoroalkyl substances) contamination hotspots
-  in U.S. surface water bodies, a critical real-world public health and environmental
-  problem.
-
-  Despite limited observations and significant landscape shifts, our method
-  reliably uncovers target land covers and contamination zones and adapts across
-  space and time, showcasing its scalability, robustness, and potential to
-  accelerate discovery in data-limited, high-stakes environments.
+In many real-world settings, such as environmental monitoring, disaster response, or public health, with costly and difficult data collection and dynamic environments, strategically sampling from unobserved regions is essential for efficiently uncovering hidden targets under tight resource constraints. Yet, sparse and biased geospatial ground truth limits the applicability of existing learning-based methods, such as reinforcement learning. To address this, we propose a unified geospatial discovery framework that integrates active learning, online meta-learning, and concept-guided reasoning. Our approach introduces two key innovations built on a shared notion of *concept relevance*, which captures how domain-specific factors influence target presence: a *concept-weighted uncertainty sampling strategy*, where uncertainty is modulated by learned relevance based on readily-available domain-specific concepts (e.g., land cover, source proximity); and a *relevance-aware meta-batch formation strategy* that promotes semantic diversity during online-meta updates, improving generalization in dynamic environments. Our experiments include testing on a real-world dataset of cancer-causing PFAS (Per- and polyfluoroalkyl substances) contamination, showcasing our method's reliability at uncovering targets with limited data and a varying environment.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -69,14 +40,14 @@ tags:
 
 featured: true
 
-#hugoblox:
- # ids:
-  #  arxiv: https://osf.io/preprints/osf/4wv8j_v1
+hugoblox:
+  ids:
+    arxiv: https://arxiv.org/abs/2602.17605
 
 links:
-#- type: preprint
- # provider: arxiv
-  #id: https://osf.io/preprints/osf/4wv8j_v1
+- type: preprint
+  provider: arxiv
+  id: https://arxiv.org/abs/2602.17605
 #- type: code
 #  url: https://github.com/HugoBlox/hugo-blox-builder
 #- type: slides
@@ -115,6 +86,7 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: ""
 ---
+
 
 
 
