@@ -183,11 +183,11 @@ awards:
       incoming international graduate students with exceptional academic qualifications
       and research potential.
 
-   - title: Graham Sustainability Institute Catalyst Award 
-     date: '2024-12-01'
-     awarder: University of Michigan
-     icon: hero/academic-cap
-     summary: |
+  - title: Graham Sustainability Institute Catalyst Award 
+    date: '2024-12-01'
+    awarder: University of Michigan
+    icon: hero/academic-cap
+    summary: |
       Competitive grant award to launch interdisciplinary research tackling sustainability challenges.
 
   - title: Outstanding College of Engineering (CEN) Student Community Service Award
