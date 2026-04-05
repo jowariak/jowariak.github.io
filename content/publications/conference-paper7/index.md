@@ -1,23 +1,26 @@
 ---
-title: 'A Light-weight Cropland Mapping Model Using Satellite Imagery'
+title: 'FOCUS on Contamination: Hydrology-Informed Noise-Aware Learning for Geospatial PFAS Mapping'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Maya Haj Hussain
-  - Diaa Addeen Abuhani
-  - admin
-  - Mohamed ElMohandes
-  - Imran Zualkernan
-  - Tarig Ali
+- admin
+- Alexa Friedman
+- Sydney Evans
+- Rachel Klein
+- Runzi Wang
+- Katherine E. Manz
+- Kaley Beins
+- David Q. Andrews
+- Elizabeth Bondi-Kelly
 
 # Author notes (optional)
 #author_notes:
  # - 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2023-07-27T00:00:00Z'
+date: '2026-03-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -28,23 +31,37 @@ date: '2023-07-27T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *MDPI Sensors*
-publication_short: In *MDPI Sensors*
+publication: In *ICLR ML4RS Workshop*
+publication_short: In *ICLR ML4RS*
 
-abstract: Many applications in agriculture as well as other related fields including natural resources, environment, health, and sustainability, depend on recent and reliable cropland maps. Cropland extent and intensity plays a critical input variable for the study of crop production and food security around the world. However, generating such variables manually is difficult, expensive, and time consuming. In this work, we discuss a cost effective, fast, and simple machine-learning-based approach to provide reliable cropland mapping model using satellite imagery. The study includes four test regions, namely Iran, Mozambique, Sri-Lanka, and Sudan, where Sentinel-2 satellite imagery were obtained with assigned NDVI scores. The solution presented in this paper discusses a complete pipeline including data collection, time series reconstruction, and cropland extent and crop intensity mapping using machine learning models. The approach proposed managed to achieve high accuracy results ranging between 0.92 and 0.98 across the four test regions at hand.
+abstract: Per- and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants with significant public-health impacts, yet large-scale monitoring remains severely limited due to the high cost and logistical challenges of field sampling, and the difficulty of simulating their spread. As a result, scientific understanding of PFAS transport in surface waters is incomplete. At the same time, rich geospatial and satellite-derived data describing land cover, hydrology, and industrial activity are widely available, creating an opportunity for AI to integrate sparse observations with large-scale environmental context. We introduce FOCUS, a geospatial deep learning framework for PFAS contamination mapping that learns from sparse point measurements propagated over satellite-based raster data while explicitly accounting for the resulting label noise. Rather than assuming known governing equations, FOCUS incorporates priors derived from hydrological connectivity, land cover, source proximity, and sampling distance to model uncertainty in supervision. These priors are integrated into a principled noise-aware loss, yielding a robust training objective under label noise. Across extensive ablations, robustness analyses, and real-world validation, FOCUS consistently outperforms baselines including sparse segmentation, Kriging, and pollutant transport simulations, while preserving spatial coherence and scalability over large regions. Our results demonstrate how AI can support environmental science by combining large-scale geospatial data with sparse, uncertain measurements to enable reliable PFAS contamination screening in the absence of complete physical models.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Cropland extent
-  - Cropland intensity
-  - Machine learning
-  - Time series
-  - Normalized Difference Vegetation Index
+- Geospatial machine learning
+
+- Environmental contamination mapping
+
+- Noise-aware learning
+
+- Weakly supervised segmentation
+
+- Structured label noise
+
+- Physics-guided machine learning
+
+- Hydrology-informed modeling
+
+- PFAS contamination
+
+- Environmental health monitoring
+
+- Uncertainty-aware prediction
 
 # Display this page in the Featured widget?
-featured: False
+featured: True
 
 # Standard identifiers for auto-linking
 hugoblox:
@@ -54,7 +71,7 @@ hugoblox:
 # Custom links
 links:
   - type: pdf
-    url: https://www.mdpi.com/1424-8220/23/15/6729
+    url: https://arxiv.org/abs/2502.14894
  # - type: code
   #  url: https://github.com/HugoBlox/hugo-blox-builder
  # - type: dataset
