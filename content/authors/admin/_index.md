@@ -183,6 +183,13 @@ awards:
       incoming international graduate students with exceptional academic qualifications
       and research potential.
 
+  - title:Best Paper Award 
+    date: '2026-04-27'
+    awarder: ICLR ML4RS
+    icon: hero/academic-cap
+    summary: |
+      Best Paper Award for FOCUS: a framework for environmental risk mapping from sparse, noisy data.
+
   - title: Graham Sustainability Institute Catalyst Award 
     date: '2024-12-01'
     awarder: University of Michigan
