@@ -183,7 +183,7 @@ awards:
       incoming international graduate students with exceptional academic qualifications
       and research potential.
 
-  - title:Best Paper Award 
+  - title: Best Paper Award 
     date: '2026-04-27'
     awarder: ICLR ML4RS
     icon: hero/academic-cap
