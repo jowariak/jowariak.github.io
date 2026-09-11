@@ -76,13 +76,17 @@ sections:
       title: Volunteer Experience
       username: admin
       text: |-
+       **Admissions Committee Student Representative at the University of Michigan**        
+        *Aug 2026 – Present*  
+        - Represent the perspectives and interests of the graduate student body in the admissions process, while supporting transparent communication and meaningful student involvement in recruitment and applicant evaluation.
+    
         **Planet Blue Ambassador at the University of Michigan**  
 
         - Trained to promote campus sustainability, lead service initiatives, and engage peers in environmental stewardship.
 
         **Food Heroes Campaign**        
         *Jan 2023 – April 2023*  
-        - Organized 70 Food Heroes workshops supported by AIESEC and Electrolux Food Foundation in GEMS Cambridge International School, Sharjah educating over 1,900 students on SDG 12 and sustainable consumption..  
+        - Organized 70 Food Heroes workshops supported by AIESEC and Electrolux Food Foundation in GEMS Cambridge International School, Sharjah educating over 1,900 students on SDG 12 and sustainable consumption.  
         
 
         **Volunteer at the American University of Sharjah Community Farm**  
@@ -90,7 +94,7 @@ sections:
 
         **Breast Cancer Awareness Campaign**  
         *Oct 2022 – Oct 2022*  
-        - Organized a 'Pink Party' for the local community and raised funds to donate to a local Breast Cancer Research institute..
+        - Organized a 'Pink Party' for the local community and raised funds to donate to a local Breast Cancer Research institute.
 
         **The Toy Stories Workshop**  
         *Mar 2022 – July 2022*  
