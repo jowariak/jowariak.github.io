@@ -304,4 +304,4 @@ awards:
 
 ---
 
-I am a Ph.D. candidate in Computer Science & Engineering at the University of Michigan, where my research focuses on applying machine learning and computer vision to environmental and public health challenges. At the moment, I develop geospatial AI methods to detect and predict PFAS contamination in water systems, collaborating with nonprofits, government agencies, and interdisciplinary teams to ensure real-world impact.
+I am a Ph.D. candidate in Computer Science & Engineering at the University of Michigan, where my research focuses on applying machine learning and computer vision to environmental and public health challenges. At present, I develop geospatial AI methods to detect and predict PFAS contamination in water systems, collaborating with nonprofits, government agencies, and interdisciplinary teams to ensure real-world impact.
