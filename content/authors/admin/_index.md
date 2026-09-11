@@ -95,11 +95,9 @@ work:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Conducting research in collaboration with the Environmental Working Group (EWG)
-      to develop novel, human-centered AI algorithms that advance environmental
-      health monitoring. Focused on building accessible, interpretable AI systems that
-      support human-AI collaboration and empower the public to live healthier lives in
-      a healthier environment.
+      - Develop novel machine learning methods for environmental and physical systems, including physics-informed generative modeling, self-supervised representation         learning, uncertainty quantification, and learning from sparse and noisy data.
+      - Develop geospatial AI methods for environmental contamination modeling and prediction using heterogeneous remote sensing, hydrological, land-use, and environmental data.
+      - Collaborate with interdisciplinary researchers and external organizations, including Environmental Working Group (EWG), Huron River Watershed Council (HRWC), and National Wildlife Federation (NWF), to develop scientifically grounded and actionable AI systems.
 
   - position: Research Assistant
     company_name: American University of Sharjah, Department of English
