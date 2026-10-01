@@ -28,6 +28,10 @@ tags:
 
 featured: true
 
+links:
+  - type: pdf
+    url: "tangent-sbm.pdf"
+
 image:
   focal_point: ""
   preview_only: false
