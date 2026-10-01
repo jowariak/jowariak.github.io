@@ -16,7 +16,7 @@ authors:
 date: "2026-03-19T00:00:00Z"   
 
 publication_types:
-  - ["article"]
+  - article-journal
 
 publication: "In The Lancet Digital Health 2026"
 publication_short: "In The Lancet Digital Health 2026"
