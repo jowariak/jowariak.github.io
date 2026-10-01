@@ -66,7 +66,7 @@ featured: True
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.3390/s23156729
+    doi: 10.48550/arXiv.2502.14894
 
 # Custom links
 links:
