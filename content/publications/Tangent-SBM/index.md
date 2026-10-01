@@ -28,9 +28,9 @@ tags:
 
 featured: true
 
-links:
-  - type: pdf
-    url: "tangent-sbm.pdf"
+#links:
+ # - type: pdf
+  #  url: "tangent-sbm.pdf"
 
 image:
   focal_point: ""
