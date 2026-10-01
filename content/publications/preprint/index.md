@@ -1,132 +1,56 @@
 ---
-title: "Underreliance Harms Human-AI Collaboration More Than Overreliance in Medical Imaging"
+title: "Examining Reliance Patterns on AI Advice in Medical Imaging: A Mixed-Methods Randomized Crossover Experiment"
+
 authors:
-- Susanne Gaube
-- Ekaterina Jussupow
-- Eesha Kokje
-- admin
-- Elizabeth Bondi-Kelly
-- Andreas Schicho
-- Felipe Campos Kitamura
-- Timo Koch
-- Timur Ezer
-- Jürgen Mottok
+  - Susanne Gaube
+  - Ekaterina Jussupow
+  - Eesha Kokje
+  - Timo Koch
+  - admin
+  - Elizabeth Bondi-Kelly
+  - Andreas Schicho
+  - Felipe Campos Kitamura
+  - Timur Ezer
+  - Jürgen Mottok
 
-date: "2024-11-21T00:00:00Z"
+date: "2026-03-19T00:00:00Z"   
 
-# Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+publication_types:
+  - ["article"]
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication: "In The Lancet Digital Health 2026"
+publication_short: "In The Lancet Digital Health 2026"
 
-# Publication name and optional abbreviated publication name.
-#publication: ""
-#publication_short: ""
+abstract: >-
+  Background: Artificial intelligence (AI) holds significant potential to support diagnostic decision-making; however, evidence regarding its clinical utility remains mixed. Often, the collaboration between clinicians and AI systems does not surpass the individual performance of unaided humans or standalone AI. Yet, currently, the mechanisms that limit human-AI synergy are poorly understood. This study examined the impact of AI advice on diagnostic decision-making among experts and novices, focusing on reliance patterns.
 
-abstract: |
-  Importance: The use of artificial intelligence (AI) to support clinicians in diagnostic
-  decision-making holds significant potential; however, evidence regarding its clinical
-  utility remains mixed. In many cases, the interaction between healthcare professionals
-  and AI systems does not improve collaborative performance compared to the standalone
-  performance of humans or AI. Currently, the underlying mechanisms that limit human-AI
-  collaboration are poorly understood.
+  Methods: We used a mixed-methods crossover experimental design with a think-aloud and an eye-tracking study arm. Participants were 50 task experts (radiologists) and 75 novices (non-radiologist physicians and medical trainees) from 10 countries. They reviewed 50 head CT scans, and every case was examined in three time-separate sessions in randomized order. In each session, participants were exposed to different experimental conditions: (a) control, no AI prediction; (b) basic advice, AI prediction without annotations; and (c) XAI advice, AI prediction with scan annotations. For each case, participants had to determine if the patients had an intracranial hemorrhage (ICH). The main outcomes were diagnostic performance, confidence in the diagnosis, case reading time, and AI advice usefulness ratings.
 
-  Objective: To examine the impact of AI advice on diagnostic decision-making among experts
-  and novices, focusing on understanding the role of explainability (XAI) on users’
-  reliance on advice.
+  Findings: Both overreliance on incorrect advice and underreliance on correct advice occurred. Underreliance was associated with high uncertainty and, in absolute terms, had a more detrimental impact on diagnostic performance than overreliance. Correct XAI advice reduced underreliance, improved performance (OR=1.84, p<0.0001), and confidence (b=0.15, p<0.0001), particularly when reviewing more difficult cases with ICH. Surprisingly, correct XAI did not reduce reading time (b=1.81, p=0.0713). XAI was perceived as more useful than basic AI advice (b=0.12, p=0.0029), especially among novices.
 
-  Design, Setting, and Participants: A mixed-methods design combining a crossover
-  experimental design with a think-aloud and an eye-tracking study arm was conducted in
-  2023. Participants were task experts (radiologists) and novices (non-radiologist
-  physicians and medical trainees) from 10 countries, with the think-aloud and eye-tracking
-  conducted in Germany.
-
-  Intervention: Participants reviewed 50 patient cases containing head CT scans and
-  patient information. Every case was reviewed in three time-separate sessions in
-  randomized order. In each session, participants were exposed to a different experimental
-  condition: (a) control, i.e., no AI prediction presented; (b) basic advice, i.e., AI
-  prediction without annotations; and (c) XAI advice, i.e., AI prediction with annotations.
-  For each case, participants determined whether the patient had an intracranial
-  hemorrhage (ICH), rated their confidence, and, if applicable, rated the usefulness of
-  the AI advice.
-
-  Main Outcome(s) and Measure(s): Diagnostic performance, confidence in the diagnosis, case
-  reading time, and AI advice usefulness ratings.
-
-  Results: The analysis included 125 participants. The mean age was 28.5 years (SD = 6.72),
-  and 55.2% identified as female. Underreliance on correct AI advice was associated with
-  high uncertainty and had a more detrimental impact on diagnostic performance than
-  overreliance on incorrect advice. XAI advice reduced underreliance and improved
-  performance and confidence, particularly for more difficult cases with ICH. AI advice,
-  particularly XAI, did not reduce reading time. XAI was perceived as more useful than
-  basic AI advice, especially among novices.
-
-  Conclusions and Relevance: Underreliance on AI appears more harmful than overreliance,
-  highlighting the need for counterstrategies that go beyond current XAI methods
-
-
-# Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+  Interpretation: The occurrence of both under- and overreliance highlights the need for efficient counterstrategies beyond classic XAI methods to foster appropriate reliance and synergy.
 
 tags:
-- Human–AI collaboration
-- Explainable artificial intelligence (XAI)
-- Medical imaging
-- Clinical decision support systems
-- Trust and reliance in AI
-- Underreliance and overreliance
-- Human-centered AI
-- Eye-tracking study
+  - Human–AI collaboration
+  - Explainable artificial intelligence (XAI)
+  - Medical imaging
+  - Clinical decision support systems
+  - Trust and reliance in AI
+  - Underreliance and overreliance
+  - Human-centered AI
+  - Eye-tracking study
 
 featured: true
 
-#hugoblox:
- # ids:
-  #  arxiv: https://osf.io/preprints/osf/4wv8j_v1
+hugoblox:
+  ids:
+    doi: 10.31219/osf.io/4wv8j_v3
 
 links:
-#- type: preprint
- # provider: arxiv
-  #id: https://osf.io/preprints/osf/4wv8j_v1
-#- type: code
-#  url: https://github.com/HugoBlox/hugo-blox-builder
-#- type: slides
- # url: https://www.slideshare.net/
-#- type: dataset
- # url: "#"
-#- type: poster
- # url: "#"
-#- type: source
- # url: "#"
-#- type: video
- # url: https://youtube.com
-- type: custom
-  label: Preprint
-  url: https://osf.io/preprints/osf/4wv8j_v1
+  - type: pdf
+    url: "https://osf.io/preprints/osf/4wv8j_v4"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-#projects:
-#- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-#slides: ""
 ---
-
