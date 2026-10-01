@@ -50,7 +50,7 @@ tags:
 featured: True
 
 # Standard identifiers for auto-linking
-hugoblox:
+# hugoblox:
  # ids:
     #doi: 10.3390/s23156729
 
