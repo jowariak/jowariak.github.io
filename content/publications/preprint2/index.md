@@ -32,6 +32,9 @@ tags:
 
 featured: true
 
+hugoblox:
+  ids:
+    doi: 10.48550/arXiv.2602.17605
 
 links:
   - type: pdf
