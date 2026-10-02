@@ -12,7 +12,7 @@ date: "2026-09-24T00:00:00Z"
 publication_types:
   - paper-conference
 
-publication: "In Neural Information Processing Systems 2026"
+publication: "In Neural Information Processing Systems 2026 (Main Track)"
 publication_short: "In NeurIPS 2026"
 
 abstract: >-
