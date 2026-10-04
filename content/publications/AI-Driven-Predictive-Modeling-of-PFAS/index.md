@@ -28,8 +28,8 @@ date: '2024-12-15T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Neural Information Processing Systems 2024, Climate Change AI Workshop*
-publication_short: In *NeurIPS CCAI*
+publication: In *The Neural Information Processing Systems 2024, Climate Change AI*
+publication_short: In *NeurIPS, Climate Change AI*
 
 abstract: Per- and polyfluoroalkyl substances (PFAS), a class of synthetic fluorinated compounds termed “forever chemicals”, have garnered significant attention due to their persistence, widespread environmental presence, bioaccumulative properties, and associated risks for human health. Their presence in aquatic ecosystems highlights the link between human activity and the hydrological cycle. They also disrupt aquatic life, interfere with gas exchange, and disturb the carbon cycle, contributing to greenhouse gas emissions and exacerbating climate change. Federal agencies, state governments and non-government research and public interest organizations have emphasized the need for documenting the sites and the extent of PFAS contamination. However, the time-consuming and expensive nature of data collection and analysis poses challenges. It hinders the rapid identification of locations at high risk of PFAS contamination, which may then require further sampling or remediation. To address this data limitation, our study leverages a novel geospatial dataset, machine learning models including frameworks such as Random Forest, IBM-NASA's Prithvi and UNet, and geospatial analysis to predict regions with high PFAS concentrations in surface water. Using fish data from the National Rivers and Streams Assessment (NRSA) dataset by the Environmental Protection Agency (EPA), our analysis suggests the potential value of machine learning based models for targeted deployment of sampling investigations and remediation efforts.
 
