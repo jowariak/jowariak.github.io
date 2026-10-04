@@ -10,8 +10,8 @@ date: "2026-09-30T00:00:00Z"
 publication_types:
   - paper-conference
 
-publication: *In NeurIPS, AI for Stochastic Dynamics*
-publication_short: *In NeurIPS, AI for Stochastic Dynamics*
+publication: "In NeurIPS, AI for Stochastic Dynamics"
+publication_short: "In NeurIPS, AI for Stochastic Dynamics"
 
 abstract: >-
   Diffusion Schrödinger bridges learn stochastic transports between endpoint distributions while remaining close to a reference diffusion, enabling flexible modeling of stochastic transformations between observed states. However, a learned bridge can match observed endpoint distributions while responding incorrectly when a physical condition or parameter is perturbed. We introduce Tangent-SBM, which propagates intervention sensitivities alongside trajectories of the learned conditional SDE, allowing externally supplied sensitivity information to constrain how the learned stochastic dynamics respond when u changes. When a sensitivity target is defined for each stochastic realization, we match it directly. When only the conditional mean sensitivity is known, we use two independent stochastic trajectories to match that mean without explicitly penalizing legitimate variation across trajectories. Across an analytically controlled Gaussian system, a stochastic double well, and the official PDEBench two-dimensional diffusion--reaction simulator extended with parameter interventions, Tangent-SBM consistently reduces intervention-sensitivity error. On PDEBench, it reduces directional sensitivity error by 37--44% relative to Conditional DSBM while maintaining comparable terminal-field accuracy.
