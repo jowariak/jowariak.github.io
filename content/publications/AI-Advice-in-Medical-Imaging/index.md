@@ -18,8 +18,8 @@ date: "2026-03-19T00:00:00Z"
 publication_types:
   - article-journal
 
-publication: "In The Lancet Digital Health 2026"
-publication_short: "In The Lancet Digital Health 2026"
+publication: "In The Lancet Digital Health"
+publication_short: "In The Lancet Digital Health"
 
 abstract: >-
   Background: Artificial intelligence (AI) holds significant potential to support diagnostic decision-making; however, evidence regarding its clinical utility remains mixed. Often, the collaboration between clinicians and AI systems does not surpass the individual performance of unaided humans or standalone AI. Yet, currently, the mechanisms that limit human-AI synergy are poorly understood. This study examined the impact of AI advice on diagnostic decision-making among experts and novices, focusing on reliance patterns.
