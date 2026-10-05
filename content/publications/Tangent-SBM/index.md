@@ -28,6 +28,14 @@ tags:
 
 featured: true
 
+hugoblox:
+  ids:
+    doi: 10.48550/arXiv.2610.02906
+
+links:
+  - type: pdf
+    url: "https://arxiv.org/abs/2610.02906"
+
 #links:
  # - type: pdf
   #  url: "tangent-sbm.pdf"
