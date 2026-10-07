@@ -28,6 +28,8 @@ role: PhD. Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Michigan, Ann Arbor
+  - name: Incoming Visiting Researcher · NASA Jet Propulsion Laboratory (JPL)
+    url: https://www.jpl.nasa.gov/
 #    url: https://ai.meta.com/
 
 # Social network links
