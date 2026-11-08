@@ -1,5 +1,5 @@
 ---
-title: "Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery"
+title: "Adapting Actively on the Fly: Relevance-Guided Sequential Learning with Latent Concepts for Geospatial Discovery"
 
 authors:
   - admin
@@ -37,8 +37,6 @@ hugoblox:
     doi: 10.48550/arXiv.2602.17605
 
 links:
-  - type: pdf
-    url: "https://arxiv.org/abs/2602.17605"
   - type: project
   - url: "https://jowariak.github.io/OWL-GPS/"
 
