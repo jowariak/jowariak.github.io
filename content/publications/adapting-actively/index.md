@@ -37,8 +37,8 @@ hugoblox:
     doi: 10.48550/arXiv.2602.17605
 
 links:
-  - type: project
-  - url: "https://jowariak.github.io/OWL-GPS/"
+  url_pdf: "https://arxiv.org/abs/2602.17605"
+  url_project: "https://jowariak.github.io/OWL-GPS/"
 
 image:
   focal_point: ""
