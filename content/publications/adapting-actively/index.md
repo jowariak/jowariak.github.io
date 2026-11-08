@@ -39,6 +39,9 @@ hugoblox:
 links:
   - type: pdf
     url: "https://arxiv.org/abs/2602.17605"
+links:
+  - type: project
+  - url: "https://jowariak.github.io/OWL-GPS/"
 
 image:
   focal_point: ""
